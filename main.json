@@ -1,18 +1,18 @@
 {
   "app": {
-    "name": "Twilight Chronicle",
-    "subtitle": "Idle RPG",
+    "name": "MHD",
+    "subtitle": "AllKar_LoeKar",
     "developer": "BURSTGAME NETWORK LIMITED (HONG KONG)",
     "description": "A WORLD OF MAGIC AND FANTASY IDLE RPG",
     "isOfficial": true,
     "downloads": "100K+",
     "rating": 5,
-    "size": "677MB",
+    "size": "60M",
     "preOrder": true,
     "cashback": "Up to 30% cashback on Every Purchase",
     "partnership": "Official partnership with BURSTGAME NETWORK LIMITED (HONG KONG)",
-    "iconUrl": "https://raw.githubusercontent.com/yourusername/aptoide-data/main/images/app-icon.png",
-    "bannerUrl": "https://raw.githubusercontent.com/yourusername/aptoide-data/main/images/banner.png",
-    "downloadUrl": "https://example.com/download/twilight-chronicle.apk"
+    "iconUrl": "https://raw.githubusercontent.com/pkutoelay-alt/app-logo/refs/heads/main/logo.png",
+    "bannerUrl": "https://raw.githubusercontent.com/pkutoelay-alt/app-logo/refs/heads/main/logo.png",
+    "downloadUrl": "https://github.com/pkutoelay-alt/apk/releases/download/v1.0.0/app-release.apk"
   }
 }
